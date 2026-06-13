@@ -1,0 +1,34 @@
+.flex{
+    display:flex;
+}
+.items-center{
+    align-items: center;
+}
+
+.justify-content{
+    justify-content: center;
+}
+
+.space-between{
+    justify-content: space-between;
+    font-weight: bolder;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.mx-2{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.flex-wrap{
+    flex-wrap: wrap;
+    
+}
+.flex1{
+    display: flex;
+    
+}
+
